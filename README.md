@@ -1,6 +1,7 @@
 # MY NOTES FOR EE468
 EE468 - Convolutional Neural Networks
 
+!!! Note to self: lecture notes still not uploaded, upload as soon as possible
 
 Yeditepe University EE468 2023 Spring
 ---
